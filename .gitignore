@@ -1,0 +1,2 @@
+# Ignore appsettings.json in bin directory
+FinancialApp/bin/Debug/net8.0/appsettings.json

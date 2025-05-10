@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\financial-frontend",
+    "\\financial-frontend\\src",
+    "\\financial-frontend\\src\\pages",
+    "\\FinancialApp",
+    "\\FinancialApp\\Controllers",
+    "\\FinancialApp\\Models",
+    "\\FinancialApp\\Services"
+  ],
+  "SelectedNode": "\\financial-frontend\\src\\pages\\SignUpPage.tsx",
+  "PreviewInSolutionExplorer": false
+}
